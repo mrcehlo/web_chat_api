@@ -1,5 +1,6 @@
 # web_chat_api
 Documentation of the API used by web_chat and web_chat_bootstrap
+See the live version directly from this repo here: https://mrcehlo.github.io/web_chat_api/
 
 ## Swagger
 *Swagger* offers a set of tools to help developing powerful documentation of APIs and others.
